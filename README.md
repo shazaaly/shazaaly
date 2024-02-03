@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaza Ali 
-- 👀 I’m interested in web development 
+- 👀 I’m interested in Backend Engineering 
 - 🌱 I’m currently enrolled in ALX software enginnering apprenticeship.
 - 💞️ MERN Stack Instructor @GoMyCode Egypt
 - I used to build Responsive functional web apps using:
